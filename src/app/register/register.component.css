@@ -1,0 +1,19 @@
+.container {
+    background-color: darkgrey;
+    position: relative;
+    top: 25px;
+    left: 40%;
+    right: auto;
+    padding: 25px;
+    max-width: 250px;
+}
+.container h2 {
+    color: red;
+    padding-bottom: 5px;
+}
+input.ng-invalid.ng-touched {
+    border-color: darkred;
+}
+.msg {
+    border: 1px solid red
+}
